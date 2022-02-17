@@ -18,5 +18,8 @@
 | epiblast      |  |
 | ICM           |          |
 
+![newplot](https://user-images.githubusercontent.com/93247992/154564300-dfc0839d-701d-4f9a-8124-1687f53ecd2c.png)
+
+
 # Какие особенности можно наблюдать по сравнению с секвенированием ДНК или РНК? 
 # Описание M-bias plot
