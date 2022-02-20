@@ -17,11 +17,11 @@
 | epiblast      | 2.92% |
 | ICM           |   9.08%       |
 
-|*8cell:*
+|*8cell:*|
 ![newplot](https://user-images.githubusercontent.com/93247992/154564300-dfc0839d-701d-4f9a-8124-1687f53ecd2c.png)
 |*epiblast:*
 ![newplot (6)](https://user-images.githubusercontent.com/93247992/154866680-da5057e0-4d97-456e-9c6a-6daa706057b0.png)
-|*ICM:*
+|*ICM:*|
 ![newplot (5)](https://user-images.githubusercontent.com/93247992/154866693-9194cc17-bb00-46ee-933b-20a83a45238f.png)
 
 # Какие особенности можно наблюдать по сравнению с секвенированием ДНК или РНК? 
