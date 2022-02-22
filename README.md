@@ -36,4 +36,4 @@
 ![Bismark M-bias Read 1 (1)](https://user-images.githubusercontent.com/93247992/154866739-8a845460-5604-4f24-9c9c-3809257b4631.png)
 ![Bismark M-bias Read 2 (1)](https://user-images.githubusercontent.com/93247992/154866752-b2f858e0-7967-419d-a502-235f30479df9.png)
 
-
+При сравнении получившихся M-bias графиков, можно заметить, что общее отличие ридов в epiblast 8-cell - это % метилирования и количество methylation calls. Так, в первом риде 
